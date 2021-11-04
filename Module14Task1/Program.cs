@@ -21,7 +21,7 @@ namespace Module14Task1
 
             while (true)
             {
-                Console.WriteLine("---------------");
+                Console.WriteLine("---------------------");
                 Console.Write("Введите номер страницы: ");
                 var input = Console.ReadKey().KeyChar;
 
